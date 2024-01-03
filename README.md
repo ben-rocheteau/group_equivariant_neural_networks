@@ -12,8 +12,8 @@ This is a project for the [TSE M2 D3S](https://www.tse-fr.eu/master-data-science
 
 ## Table of Contents
 
-1. [How to Use](#how_to_use)
-2. [Repository Structure](#repository_structure)
+1. [How to Use](#how-to-use)
+2. [Repository Structure](#repository-structure)
 
 ## How to Use
 
