@@ -27,3 +27,5 @@ Folder | Contents
 `1_Convolutions` | 
 `2_Cyclic_Group_Convolutions` |
 `3_General_Group_Convolutions` |
+
+All non-coding elements of this project can be found in the [Wiki](../../wiki/).
